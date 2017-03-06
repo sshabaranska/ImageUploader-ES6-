@@ -1,2 +1,7 @@
-# ImageUploader-ES6-
-ImageUploader(ES6)
+# ImageUploader-ES6
+
+## Start:
+
+nmp install
+gulp
+cordova build android
