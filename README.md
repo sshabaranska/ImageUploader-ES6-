@@ -2,6 +2,6 @@
 
 ## Start:
 
-nmp install
-gulp
-cordova build android
+$ nmp install 
+$ gulp 
+$ cordova build android
